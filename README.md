@@ -40,9 +40,12 @@
 <br/>
 
 <h2 align="center">📈 Statistics 📈</h2>
-
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=reproachdevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+	<img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=reproachdevs&&layout=donut&theme=dark&hide_border=true&blocale=en" alt="xvorost" />
+</p>
+
+<p align="center">	
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=reproachdevs&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xvorost" />
 </p>
 
 
