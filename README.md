@@ -52,7 +52,7 @@
 
 <p align="center">	
 	<div align="center"><a href="https://discord.com/users/564846633192521738" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/564846633192521738?borderRadius=5px&idleMessage=Hi,Im_Reproach&bg=a&animated=true"
+        <img src="https://lanyard.cnrad.dev/api/564846633192521738?borderRadius=5px&idleMessage=It’s+true+that+you’re+lacking+in+ability.+That’s+because+you+don’t+work+at+it.&bg=a&animated=true"
 </p> 
    
 
