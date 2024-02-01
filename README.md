@@ -48,6 +48,17 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=reproachdevs&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xvorost" />
 </p>
 
+### <h2 align="center">📱 Contact Me 📱</h2>
+
+  <div align="center">
+  <a href="https://discord.com/users/564846633192521738" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/564846633192521738?borderRadius=5px&idleMessage=Hi,Im_Reproach&bg=a&animated=true"
+  </a>
+  </a> 
+  </a> 
+  </p>
+    </div>
+
 
 
 <!--
