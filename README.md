@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python" /><br>
 </div>
 
 
@@ -47,7 +47,7 @@
 
 <p align="center">	
 	<div align="center"><a href="https://discord.com/users/394546249686056960" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/564846633192521738?borderRadius=5px&idleMessage=It’s+true+that+you’re+lacking+in+ability.+That’s+because+you+don’t+work+at+it.&bg=a&animated=true"
+        <img src="https://lanyard.cnrad.dev/api/394546249686056960?borderRadius=5px&idleMessage=It’s+true+that+you’re+lacking+in+ability.+That’s+because+you+don’t+work+at+it.&bg=a&animated=true"
 </p> 
    
 
