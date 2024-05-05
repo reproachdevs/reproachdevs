@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/@reproachfivem">
     <img src="https://img.shields.io/badge/Youtube-FD2D00?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/564846633192521738" target="_blank">
+  <a href="https://discordapp.com/users/394546249686056960" target="_blank">
      <img src="https://img.shields.io/badge/Discord-0006FD?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   <a href="https://ratted.software/p/71je6go50z" target="_blank">
@@ -51,7 +51,7 @@
 <h2 >📱 Contact Me 📱</h2>
 
 <p align="center">	
-	<div align="center"><a href="https://discord.com/users/564846633192521738" target="_blank">
+	<div align="center"><a href="https://discord.com/users/394546249686056960" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/564846633192521738?borderRadius=5px&idleMessage=It’s+true+that+you’re+lacking+in+ability.+That’s+because+you+don’t+work+at+it.&bg=a&animated=true"
 </p> 
    
