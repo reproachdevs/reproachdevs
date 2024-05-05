@@ -9,12 +9,7 @@
   <a href="https://discordapp.com/users/394546249686056960" target="_blank">
      <img src="https://img.shields.io/badge/Discord-0006FD?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
-  <a href="https://ratted.software/p/71je6go50z" target="_blank">
-     <img src="https://img.shields.io/badge/Ltc-353335?style=for-the-badge&logo=litecoin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://ratted.software/p/bilpn50818" target="_blank">
-     <img src="https://img.shields.io/badge/Eth-3c3c3b?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank" />
-  </a>
+
  
 
 
